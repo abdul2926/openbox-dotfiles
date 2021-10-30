@@ -4,43 +4,43 @@
 ! License: MIT
 
 
-! --<#### colorscheme ####>--
+! colorscheme 
 *.background: #161515
 *.foreground: #d3d3d3
 
-! -<## black ##>-
+! black 
 *.color0: #0b0b0b
 *.color8: #282b2f
 
-! -<## red ##>-
+! red 
 *.color1: #dc3328
 *.color9: #cc5149
 
-! -<## green ##>-
+! green 
 *.color2: #b5c801
 *.color10: #c9d368
 
-! -<## yellow ##>-
+! yellow 
 *.color3: #f1cb3b
 *.color11: #ecd16d
 
-! -<## blue ##>-
+! blue 
 *.color4: #195df3
 *.color12: #3f74e9
 
-! -<## purple ##>-
+! purple 
 *.color5: #b246d6
 *.color13: #c77ce1
 
-! -<## cyan ##>-
+! cyan 
 *.color6: #4fb1a5
 *.color14: #70d1c5
 
-! -<## white ##>-
+! white 
 *.color7: #88939f
 *.color15: #acbed0
 
-! --<#### urxvt settings ####>--
+! urxvt settings 
 URxvt.font: xft:Fira Code:style=Regular:size=10
 URxvt.boldFont: xft:Fira Code:style=Bold:size=10
 URxvt.italicFont: xft:Fire Code:style=Italic:size=10
