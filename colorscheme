@@ -1,0 +1,40 @@
+Project: spark
+Repository: https://github.com/abdul2926/spark
+Maintainer: https://github.com/abdul2926
+License: MIT
+
+
+background="#161515"
+foreground="#d3d3d3"
+
+-<## black ##>-
+cterm0="#0b0b0b"
+cterm8="#282b2f"
+
+-<## red ##>-
+cterm1="#dc3328"
+cterm9="#cc5149"
+
+-<## green ##>-
+cterm2="#b5c801"
+cterm10="#c9d368"
+
+-<## yellow ##>-
+cterm3="#f1cb3b"
+cterm11="#ecd16d"
+
+-<## blue ##>-
+cterm4="#195df3"
+cterm12="#3f74e9"
+
+-<## purple ##>-
+cterm5="#b246d6"
+cterm13="#c77ce1"
+
+-<## cyan ##>-
+cterm6="#4fb1a5"
+cterm14="#70d1c5"
+
+-<## white ##>-
+cterm7="#88938f"
+cterm15="#acbed0"
