@@ -34,3 +34,7 @@ hi Boolean      guifg=#7d7d7d guibg=NONE gui=bold cterm=bold
 hi Todo         guifg=#7d7d7d guibg=NONE gui=bold cterm=bold
 hi Statement    guifg=#dc3328 guibg=NONE gui=bold cterm=bold
 hi Conditional  guifg=#dc3328 guibg=NONE gui=bold cterm=bold
+
+" Neovim specifc settings
+hi Pmenu		guifg=#cc5149 guibg=#282b2f gui=NONE cterm=NONE
+
