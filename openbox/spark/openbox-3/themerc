@@ -1,0 +1,66 @@
+# Project: spark
+# Repository: https://github.com/abdul2926/spark
+# Maintainer: https://github.com/abdul2926
+# License: MIT
+
+# NOTE: WIP
+
+# Borders
+border.width: 2
+padding.width: 8
+padding.height: 3
+window.handle.width: 0
+window.client.padding.width: 0
+window.label.text.justify: Left
+
+# Menu
+menu.border.color: #dc3328
+menu.border.width: 2
+menu.title.bg: Solid Flat
+menu.title.bg.color: #161515
+menu.title.bg.shadow: 0
+menu.title.text.color: #d3d3d3
+menu.title.text.justify: Left
+menu.items.bg: Solid Flat
+menu.items.bg.color: #161515
+menu.items.text.color: #d3d3d3
+menu.items.disabled.text.color: #88938f
+menu.items.active.bg: Solid Flat
+menu.items.active.bg.color: #cc5149
+menu.items.active.text.color: #161515
+menu.separator.color: #161515
+menu.separator.width: 1
+menu.separator.padding.width: 4
+menu.separator.padding.height: 4
+
+# Active window
+window.active.title.separator.color: #161515
+window.active.title.bg: Flat Solid
+window.active.title.bg.color: #161515
+window.active.border.color: #dc3328
+window.active.text.justify: Left
+window.active.label.bg: Flat Solid
+window.active.label.bg.color: #161515
+window.active.label.text.color: #FFFFFF
+window.active.handle.bg: Flat Solid
+window.active.handle.bg.color: #dc3328
+window.active.grip.bg: Flat Solid
+window.active.grip.bg.color: #161515
+window.active.button.unpressed.bg: Flat Solid
+window.active.button.unpressed.bg.color: #161515
+window.active.button.unpressed.image.color: #cc5149
+window.active.button.hover.bg: Flat Solid
+window.active.button.hover.bg.color: #cc5149
+window.active.button.hover.image.color: #d3d3d3
+
+# Inactive window
+window.inactive.title.separator.color: #161515
+window.inactive.border.color: #cc5149
+window.inactive.title.bg: Flat Solid
+window.inactive.title.bg.color: #161515
+window.inactive.label.bg: Flat Solid
+window.inactive.label.bg.color: #161515
+window.inactive.label.text.color: #d3d3d3
+window.inactive.button.unpressed.bg: Flat Solid
+window.inactive.button.unpressed.bg.color: #161515
+
