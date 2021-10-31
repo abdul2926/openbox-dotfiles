@@ -36,5 +36,5 @@ hi Statement    guifg=#dc3328 guibg=NONE gui=bold cterm=bold
 hi Conditional  guifg=#dc3328 guibg=NONE gui=bold cterm=bold
 
 " Neovim specifc settings
-hi Pmenu		guifg=#cc5149 guibg=#282b2f gui=NONE cterm=NONE
+hi Pmenu        guifg=#cc5149 guibg=#282b2f gui=NONE cterm=NONE
 
