@@ -1,6 +1,6 @@
 ## info  
 this openbox rice is still a work in progress. there is no gtk theme yet.  
-all configs are custom and written from scratch.  
+all configs are custom.  
 
 ## installation
 still working on a installation script
