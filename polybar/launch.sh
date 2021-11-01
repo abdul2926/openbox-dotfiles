@@ -12,9 +12,9 @@ polybar spark --config=~/.config/polybar/config.ini 2>&1 | tee -a /temp/polybar.
 # For more info: https://github.com/polybar/polybar/issues/763
 if type "xrandr"; then
 	for m in $(xrandr --query | grep " connected" | cut -d" " f1); do
-		MONITOR=$m polybar --reload spark &
+		MONITOR=$m polybar --reload spark --config=~/.config/polybar/config.ini &
 	done
 else
-	polybar --reload spark &
+	polybar --reload spark --config=~/.config/polybar/config.ini &
 fi
 
