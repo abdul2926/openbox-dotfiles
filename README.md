@@ -7,7 +7,7 @@ manual installation:
 `terminal/.Xresources` >> `~/`  
 `polybar/config.ini` >> `~/.config/polybar`  
 `polybar/launch.sh` >> `~/.config/polybar`  
-`openbox/spark.obt` >> Install with obconf  (source for openbox theme in `openbox/openbox-3/themerc`)  
+`openbox/spark.obt` >> Install with [obconf](https://archlinux.org/packages/community/x86_64/obconf/)  (source for openbox theme in `openbox/openbox-3/themerc`)  
 `nvim/init.vim` >> `~/.config/nvim/`  
 `nvim/spark.vim` >> `~/.config/nvim/colors`  
 `nvim/airline/spark.vim` >> `~/.config/nvim/plugged/vim-airline-themes/autoload/airline/themes`  
