@@ -1,9 +1,3 @@
-" Project: spark
-" Repository: https://github.com/abdul2926/spark
-" Maintainer: https://github.com/abdul2926
-" License: MIT
-
-
 " [ guifg, guibg, ctermfg, ctermbg, opts ] `:help attr-list` for more info
 " s:x1 = mode; s:x2 = info; s:x3 = statusline; s:x4 = mode modified
 
