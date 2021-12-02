@@ -1,8 +1,3 @@
-" Project: spark
-" Repository: https://github.com/abdul2926/spark
-" Maintainer: https://github.com/abdul2926/
-" License: MIT
-
 " NOTE: THIS FILE IS STILL A WORK IN PROGRESS AND MIGHT NOT HAVE ALL
 " THE FUNCTIONALITY YOU NEED
 
