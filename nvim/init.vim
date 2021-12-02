@@ -1,8 +1,3 @@
-" Project: spark
-" Repository: https://github.com/abdul2926/spark
-" Maintainer: https://github.com/abdul2926
-" License: MIT
-
 :set number
 :set autoindent
 :set tabstop=4
